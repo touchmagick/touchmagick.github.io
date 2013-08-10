@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://touchmagick.github.io/sitemap.xml 
