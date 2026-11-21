@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Touch Magick]]></title>
+  <link href="http://touchmagick.github.io/atom.xml" rel="self"/>
+  <link href="http://touchmagick.github.io/"/>
+  <updated>2013-08-10T23:42:22-04:00</updated>
+  <id>http://touchmagick.github.io/</id>
+  <author>
+    <name><![CDATA[Touch Magick LLC]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sign of the Enterer]]></title>
+    <link href="http://touchmagick.github.io/blog/2013/01/21/sign-of-the-enterer/"/>
+    <updated>2013-01-21T21:31:00-05:00</updated>
+    <id>http://touchmagick.github.io/blog/2013/01/21/sign-of-the-enterer</id>
+    <content type="html"><![CDATA[<p>Touch Magick is still booting up. Details on our first software release
+will be announced soon.</p>
+]]></content>
+  </entry>
+  
+</feed>
